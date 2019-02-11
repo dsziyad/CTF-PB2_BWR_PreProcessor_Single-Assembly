@@ -1,0 +1,21 @@
++	+	+	+	+	+	+	+	+ 
+  O	  O   O   O   O   O   O   O
++	+	+	+	+	+	+	+	+
+  O	  O   O   O   O   O   O   O
++	+	+	+	+	+	+	+`	+ 
+  O	  O   O   O   O   O   O	  O
++	+	+	+	+	+	+	+ 	+
+  O	  O   O   O   W   O   O	  O
++	+	+	+	+	+	+	+ 	+
+  O	  O   O   W   O   O   O   O
++	+	+	+	+	+	+	+ 	+
+  O	  O   O   O   O   O   O	  O	
++	+	+	+	+	+	+	+ 	+
+  O	  O   O   O   O   O   O	  O
++	+	+	+	+	+	+	+ 	+
+  O	  O   O   O   O   O   O	  O
++	+	+	+	+	+	+	+ 	+
+
++ - Subchannel
+O - Fuel Rod
+W - Water Rod
